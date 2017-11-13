@@ -13,7 +13,11 @@ function yourAnimal() {
 }
 
 function add2(n) {
+<<<<<<< HEAD
 
+=======
+  return parseInt(n + two)
+>>>>>>> d7b57091b44fbb640d48cba4b58e3918120eee72
 
   // Feel free to move things around!
   const two = 2
